@@ -2,7 +2,7 @@
 ##
 
 
-- 🔭 Hoje faço ciencias da computação numa federal.
+- 🔭 Hoje faço ciencias da computação na federal.
 - 👯 Em busca de aprender cada vez mais com desafios novos e unicos.
 - 😄 Pronomes : ele/dele
 
