@@ -3,7 +3,7 @@
 
 
 - 🔭 Hoje faço ciencias da computação na federal.
-- 👯 Em busca de aprender cada vez mais com desafios novos e unicos.
+- 👯 Sempre buscando algum desafio novo e unico.
 - 😄 Pronomes : ele/dele
 
 
