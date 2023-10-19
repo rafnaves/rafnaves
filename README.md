@@ -5,12 +5,7 @@
 - 👨‍💻 Mais interessado em Ciencia de Dados, front e back, IA e games.
 - 🔭 Hoje faço ciencia da computação na federal.
 - 🚀 Fazendo um projeto atrás de outro.
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafnaves)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafnaves&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-- 🚀 Technologias:
+- </> Technologias:
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
@@ -24,6 +19,10 @@
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
 </div>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafnaves&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafnaves)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 
