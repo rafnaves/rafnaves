@@ -1,10 +1,10 @@
-### Olá, eu sou o Rafael 
+### Eae, eu sou o Rafa
 ##
 
 
-- 🔭 Hoje faço ciencias da computação na federal.
-- 👯 Sempre buscando algum desafio novo e unico.
-- 😄 Pronomes : ele/dele
+- 👨‍💻 Mais interessado em Ciencia de Dados, front e back, IA e games.
+- 🔭 Hoje faço ciencia da computação na federal.
+- 🚀 Fazendo um projeto atrás de outro.
 
 
 
