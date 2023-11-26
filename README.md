@@ -13,7 +13,6 @@
 <div>
  <img align="left" alt="Rafa-Js" height="37.5" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
  <img align="left" alt="Rafa-React" height="37.5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
- <img align="left" alt="Rafa-React" height="37.5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
  <img align="left" alt="Rafa-HTML" height="37.5" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
  <img align="left" alt="Rafa-CSS" height="37.5" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  <img align="left" alt="Rafa-Python" height="37.5" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
