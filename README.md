@@ -2,7 +2,7 @@
 
  # Oi, Pode me chamar de Rafa 🕷️
  
- <img align="right" alt="IMAGE" src="https://github.com/rafnaves/rafnaves/assets/112995259/7520da29-d328-42be-83d3-41d6bb1d4ce6" width="400" height="300" />
+ <img align="right" alt="gif" src="https://github.com/rafnaves/rafnaves/assets/112995259/ac27c698-021c-4dda-8cbf-0f8ddac404b7" width="450" height="300" />
  
 - 👨‍💻 interessado em Ciencia de Dados, front e back, IA e games.
 - 🔭 Estudando Ciencia da Computação na federal.
