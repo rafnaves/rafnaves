@@ -12,6 +12,7 @@
 ### 📚 Technologias que já estudei e estudo : 
 <div>
  <img align="left" alt="Rafa-Js" height="37.5" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="left" alt="Rafa-Js" height="37.5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
  <img align="left" alt="Rafa-sql" height="37.5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />    
  <img align="left" alt="Rafa-React" height="37.5" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
  <img align="left" alt="Rafa-HTML" height="37.5" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
