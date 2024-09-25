@@ -1,11 +1,12 @@
 
 
- # Oi, Pode me chamar de Rafa 🕷️
+ # Oi, eu sou o Rafa!
  
- <img align="right" alt="gif" src="https://github.com/rafnaves/rafnaves/assets/112995259/ac27c698-021c-4dda-8cbf-0f8ddac404b7" width="450" height="300" />
+
+ <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/muqodJiuSnPq6qfu8A" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/NRGesports-sf-shock-sfshock-sanfranciscoshock-muqodJiuSnPq6qfu8A">via GIPHY</a></p>
  
 - 👨‍💻 interessado em Ciencia de Dados, front e back, IA e games.
-- 🔭 Estudando Ciencia da Computação na federal.
+- 🔭 Estudando Ciencia da Computação na UFCAT.
 - 🚀 Buscando projetos e desafios criativos.
 <br>
 
