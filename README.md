@@ -1,10 +1,11 @@
 
 
- # Oi, eu sou o Rafa!
- 
+# Oi, eu sou o Rafa!
 
- <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/muqodJiuSnPq6qfu8A" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/NRGesports-sf-shock-sfshock-sanfranciscoshock-muqodJiuSnPq6qfu8A">via GIPHY</a></p>
- 
+<img align="right" alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa29jNHdvcGxoYjZxb2tub3R1aW03NjcyaGVpczc4Z3ByNGVndnk0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/muqodJiuSnPq6qfu8A/giphy.gif" width="400" height="256" />
+
+
+
 - 👨‍💻 interessado em Ciencia de Dados, front e back, IA e games.
 - 🔭 Estudando Ciencia da Computação na UFCAT.
 - 🚀 Buscando projetos e desafios criativos.
