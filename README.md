@@ -45,7 +45,7 @@ Minhas areas preferidas são **Ciência de Dados**, **Inteligência Artificial**
 
 ### I play to win:
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafnaves&show_icons=true&theme=cobalt)
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafnaves&show_icons=true&theme=github_dark)
  <a href="https://github.com/rafnaves">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafnaves&layout=compact&langs_count=7&theme=github_dark"/>
 
