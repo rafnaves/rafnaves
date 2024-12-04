@@ -7,13 +7,12 @@
 <img align="right" alt="GIF" src="https://media1.tenor.com/m/IvF97PYkx4cAAAAd/ponste20.gif" alt="ezgif 6 14617502c1" border="0" width="400" height="256" />
 
 
-Minhas areas preferidas são **Ciência de Dados**, **Inteligência Artificial** e **Desenvolvimento**.
+Minhas areas preferidas são **Ciência de Dados** e **Inteligência Artificial**.
 
 ---
 
 ### Sobre mim:
 - 📚 Estudante de **Ciência da Computação** na UFCAT.
-- 💻 Atleta, gamer, DEV e futuro Data Scientist.
 
 
 ---
