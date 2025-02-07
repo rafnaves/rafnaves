@@ -2,12 +2,12 @@
 ---
 
 #  Oi, eu sou o Rafa!   
-**`Estudante, DEV e Cientista de Dados`**
+**`Estudante e futuro Cientista de Dados`**
 
 <img align="right" alt="GIF" src="https://private-user-images.githubusercontent.com/112995259/407957647-8c488c26-1f42-4238-b47c-839ee1c7bbdb.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3Mzg2OTU4NTAsIm5iZiI6MTczODY5NTU1MCwicGF0aCI6Ii8xMTI5OTUyNTkvNDA3OTU3NjQ3LThjNDg4YzI2LTFmNDItNDIzOC1iNDdjLTgzOWVlMWM3YmJkYi5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMjA0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDIwNFQxODU5MTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iYThmMDA5ZjNkY2I0ZDU0OTM2NTI3MTFhNTEwMDg5ZGMwY2QxNjI2ZGJjYTFlZmEwZDg0M2NjN2U3YTYyZmQxJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.y0m1FrEoLvVeuWhtrhvxqK4jsPoZqWme3G4mBy7augg" alt="ezgif 6 14617502c1" border="0" width="500" height="256" />
 
 
-Minhas areas preferidas são **Ciência de Dados** e **Inteligência Artificial**.
+Minhas areas preferidas são **Ciência de Dados**, **Inteligência Artificial** e **redes**
 
 ---
 
