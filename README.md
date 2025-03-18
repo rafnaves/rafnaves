@@ -9,7 +9,7 @@
 
 <img align="right" src="https://github.com/rafnaves/rafnaves/blob/main/.github/workflows/V%C3%ADdeo%20sem%20t%C3%ADtulo%20%E2%80%90%20Feito%20com%20o%20Clipchamp.gif" width="250"/>
 
-I’m a Computer Sciente student who likes to play and have fun with Predictive Analytics, Data and Cybersecurity. 
+I’m a Computer Sciente student who likes to play and have fun with Predictive Analytics, AI, Data and Cybersecurity. 
 
 - Atteding Computer Science at UFCAT.
 - Always doing scientific research and working in social organizations.
