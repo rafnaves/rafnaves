@@ -39,6 +39,8 @@ I’m a Computer Sciente student who passionate about Data Science, Machine Lear
     <img alt="Postman" src="https://img.shields.io/badge/Postman-405DE6?style=for-the-badge&logo=postman&logoColor=white">
     <img alt="Redes" src="https://img.shields.io/badge/Redes-405DE6?style=for-the-badge&logo=cisco&logoColor=white">
     <img alt="VSCODE" src="https://img.shields.io/badge/Vscode-405DE6?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+    <img alt="PANDAS" src="https://img.shields.io/badge/Vscode-405DE6?style=for-the-badge&logo=pandas&logoColor=white">
+    <img alt="scikitlearn" src="https://img.shields.io/badge/Vscode-405DE6?style=for-the-badge&logo=scikit_learn&logoColor=white">
     <img alt="Jupyter Notebook" src="https://img.shields.io/badge/Jupyter_Notebook-405DE6?style=for-the-badge&logo=jupyter&logoColor=white">
     <img alt="Excel" src="https://img.shields.io/badge/Excel-405DE6?style=for-the-badge&logo=microsoftexcel&logoColor=white">
     <img alt="Ferramentas de Gestão" src="https://img.shields.io/badge/Ferramentas_de_Gestão-405DE6?style=for-the-badge&logo=trello&logoColor=white">
