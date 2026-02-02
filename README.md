@@ -12,11 +12,12 @@
 
 <img align="right" src=".github/workflows/tumblr_88e73501c3c3e77f4a8984cc62e0a07e_e8498fd4_540.webp" width="350"/>
 
-### Hi, I'm Rafa!
+# Hi, I'm Rafa! 👋
 
-I’m a Computer Science student working with AI development, especially in computer vision and automation.
+Computer Science student & **R&D Intern**.
+Building solutions in **Industrial AI**, **Computer Vision**, and **Automation**.
 
-“This Is A Game About Winning The Points That Matter.” 
+> _“This Is A Game About Winning The Points That Matter.”_
 
 </div>
 
