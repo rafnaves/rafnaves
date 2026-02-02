@@ -14,7 +14,7 @@
 
 ### Hi, I'm Rafa!
 
-I’m a Computer Science student who's developing artificial inteligence with computacional vision and automations.
+I’m a Computer Science student working with AI development, especially in computer vision and automation.
 
 “This Is A Game About Winning The Points That Matter.” 
 
