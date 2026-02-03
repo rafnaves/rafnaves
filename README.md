@@ -12,7 +12,7 @@
 
 <img align="right" src=".github/workflows/tumblr_88e73501c3c3e77f4a8984cc62e0a07e_e8498fd4_540.webp" width="350"/>
 
-# Hi, I'm Rafa! 👋
+### Hi, I'm Rafa! 👋
 
 Computer Science student & **R&D Intern**.
 Building solutions in **Industrial AI**, **Computer Vision**, and **Automation**.
