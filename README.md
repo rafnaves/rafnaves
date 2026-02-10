@@ -17,7 +17,7 @@
 Computer Science student & **R&D Intern**.
 Building solutions in **Industrial AI**, **Computer Vision**, and **Automation**.
 
-> _“This Is A Game About Winning The Points That Matter.”_
+“This Is A Game About Winning The Points That Matter.”
 
 </div>
 
