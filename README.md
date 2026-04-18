@@ -15,7 +15,7 @@ Ai & Machine Learning Developer @HPE-Automotores-do-Brasil-LTDA, Building Indust
 
 </div>
 
-[![Gmail Badge](https://img.shields.io/badge/-rafael.naves@discente.ufcat.edu.br-1DA1F2?style=flat-square&logo=gmail&logoColor=white)](mailto:rafael.naves@discente.ufcat.edu.br)
+[![Gmail Badge](https://img.shields.io/badge/-contatorafaelnaves@icloud.com-1DA1F2?style=flat-square&logo=gmail&logoColor=white)](mailto:contatorafaelnaves@icloud.com)
 [![Linkedin Badge](https://img.shields.io/badge/-Rafael_Naves-1DA1F2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-naves-904346385)
 <br clear="both">
 <br><br>
